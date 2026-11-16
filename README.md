@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Stanyslaus Hary
+# Hi, I'm SH
 
 <a href="https://git.io/typing-svg">
   <img
